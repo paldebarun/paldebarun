@@ -38,8 +38,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pushkarverma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pushkarverma21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pushkar-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-verma" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/debarun-pal-3ba144216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-verma" height="30" width="40" /></a>
 <a href="https://medium.com/@pushkar7397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pushkar7397" height="30" width="40" /></a>
 </p>
 
