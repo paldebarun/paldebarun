@@ -39,8 +39,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/debarun-pal-3ba144216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pushkar-verma" height="30" width="40" /></a>
-<a href="https://medium.com/@pushkar7397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pushkar7397" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/debarun-pal-3ba144216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarunlinkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/debarun_27/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="debaruninstagram" height="30" width="40" /></a>
 </p>
 
 <!--
