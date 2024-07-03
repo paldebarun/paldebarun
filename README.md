@@ -1,59 +1,95 @@
-<h1 align="center">Hi 👋, I'm Debarun Pal</h1>
-<h3 align="center">A Computer Science student and Software Developer</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkar2112&label=Profile%20views&color=0e75b6&style=flat" alt="Debarun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkar2112" alt="pushkar2112" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/pushkarverma21" target="blank"><img src="https://img.shields.io/twitter/follow/pushkarverma21?logo=twitter&style=for-the-badge" alt="pushkarverma21" /></a> </p>
-
-- 🔭 I’m currently working on [Web App using Flask](https://github.com/pushkar2112/Web-app-using-Flask)
-
-- 🌱 I’m currently learning **C | Web Development | DSA**
-
-- 📝 I regularly write articles on [medium.com/@pushkar7397](medium.com/@pushkar7397)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **contact@pushkarverma.dev**
-
-- ⚡ Fun fact **Space is completely silent🌌**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [A Jump into The Expanse](https://medium.com/@pushkar7397/a-jump-into-the-expanse-2e68f51f2672?source=rss-830e5f141214------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pushkar2112&show_icons=true&locale=en&layout=compact" alt="pushkar2112" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushkar2112&show_icons=true&locale=en&theme=dracula&count_private=true" alt="pushkar2112" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushkar2112&" alt="pushkar2112" /></p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="www.linkedin.com/in/debarun-pal-3ba144216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarunlinkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/debarun_27/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="debaruninstagram" height="30" width="30" /></a>
-</p>
-
-<!--
-**pushkar2112/pushkar2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debarun Pal - GitHub Profile</title>
+</head>
+<body>
+    <h1>Debarun Pal</h1>
+    <p><strong>Next.js Developer | MERN Stack Enthusiast | Problem Solver</strong></p>
+    <p>
+        <a href="https://www.linkedin.com/in/debarun-pal-3ba144216/">LinkedIn</a> | 
+        <a href="https://github.com/paldebarun">GitHub</a> | 
+        <a href="https://nextjs-portfolio-j6tg.vercel.app/">Portfolio</a> | 
+        <a href="https://www.codechef.com/users/debarun27">CodeChef</a> | 
+        <a href="https://leetcode.com/paldebarun27/">LeetCode</a>
+    </p>
+    <hr>
+    <h2>🛠️ Skills</h2>
+    <h3>Languages</h3>
+    <ul>
+        <li><strong>C/C++</strong></li>
+        <li><strong>JavaScript</strong></li>
+        <li><strong>SQL</strong></li>
+        <li><strong>HTML/CSS</strong></li>
+        <li><strong>Java</strong></li>
+    </ul>
+    <h3>Technologies</h3>
+    <ul>
+        <li><strong>Node.js</strong></li>
+        <li><strong>Express.js</strong></li>
+        <li><strong>Mongoose</strong></li>
+        <li><strong>MongoDB</strong></li>
+        <li><strong>React.js</strong></li>
+        <li><strong>Next.js</strong></li>
+        <li><strong>NestJS</strong></li>
+        <li><strong>Docker Fundamentals</strong></li>
+        <li><strong>Tailwind CSS</strong></li>
+    </ul>
+    <h3>Concepts</h3>
+    <ul>
+        <li><strong>Data Structures</strong></li>
+        <li><strong>Algorithms</strong></li>
+        <li><strong>Problem Solving</strong></li>
+    </ul>
+    <h3>Non-Technical Skills</h3>
+    <ul>
+        <li><strong>Leadership</strong></li>
+        <li><strong>Communication</strong></li>
+        <li><strong>Decision Making</strong></li>
+        <li><strong>Adaptability</strong></li>
+        <li><strong>Management</strong></li>
+    </ul>
+    <hr>
+    <h2>📚 Education</h2>
+    <p><strong>Bachelor of Science in Computer Science</strong> (CGPA: 7.79) <br>
+    Chandigarh University, Mohali, Punjab <br>
+    Expected June 2025</p>
+    <hr>
+    <h2>💼 Experience</h2>
+    <p><strong>Next.js Developer</strong> <br>
+    Achintya Solutions | Remote <br>
+    Feb 2024 – June 2024</p>
+    <ul>
+        <li>Implemented microservices architecture using Node.js, Next.js, and Express, improving API response time by 25% and reducing server load by 30%.</li>
+        <li>Led a cross-functional team in implementing a new feature using React and Redux, resulting in a 20% increase in user engagement within the first month.</li>
+        <li>Optimized page rendering and caching, reducing page load times by 15% and enhancing overall application performance.</li>
+    </ul>
+    <hr>
+    <h2>📈 Projects</h2>
+    <h3>Ecomzy (E-commerce Website)</h3>
+    <p><strong>Technologies:</strong> React.js, MongoDB, Mongoose, Cloudinary, Razorpay, Express.js</p>
+    <ul>
+        <li>Led the development of a dynamic e-commerce website using the MERN stack, integrating Cloudinary for image management, Clerk.js for user authentication, and Razorpay as the payment gateway.</li>
+        <li>The Razorpay integration ensures secure and efficient transaction processing, supporting multiple payment methods including credit/debit cards, net banking, UPI, and wallets.</li>
+    </ul>
+    <h3>Interactive Chatbot</h3>
+    <p><strong>Technologies:</strong> React.js, ReactX State Management, Express.js, Mongoose</p>
+    <ul>
+        <li>Developed an interactive chatbot application using React.js and ReactX for state management, providing a dynamic and responsive user interface.</li>
+        <li>The chatbot leverages natural language processing to engage users in meaningful conversations, offering personalized responses and support.</li>
+    </ul>
+    <h3>Blog Website</h3>
+    <p><strong>Technologies:</strong> MERN Stack: MongoDB, Express.js, React.js, Node.js</p>
+    <ul>
+        <li>Developed a blog website allowing users to create profiles, post blogs, comment, and like other users’ blogs. Implemented user authentication and authorization, ensuring secure access to profile-specific features.</li>
+        <li>Utilized MongoDB for database management, Express.js for backend API development, and React.js for frontend UI/UX, providing a seamless and interactive blogging platform.</li>
+    </ul>
+    <hr>
+    <h2>🏆 Achievements</h2>
+    <ul>
+        <li><a href="https://drive.google.com/drive/folders/1UsqHEhjviHM_uSE5KupUPyYZ6foM42rV?usp=sharing">View Achievements</a></li>
+    </ul>
+</body>
+</html>
