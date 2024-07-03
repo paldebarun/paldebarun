@@ -40,7 +40,7 @@
 <p align="left">
 
 <a href="www.linkedin.com/in/debarun-pal-3ba144216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debarunlinkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/debarun_27/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="debaruninstagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/debarun_27/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1305901852190482434/nVjrSoGe_400x400.jpg" alt="debaruninstagram" height="30" width="30" /></a>
 </p>
 
 <!--
